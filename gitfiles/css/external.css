@@ -1,0 +1,54 @@
+.r1
+{
+   width: 1360px;
+   height:100%;
+  
+}
+.bg
+{
+	
+	height:400px;
+	background-image: url(../images/bg2.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+
+}
+center
+{
+	padding-top: 70px;
+	color:white;
+	font-family:Corbel ;
+}
+.btn
+{
+	background-color: #f7f39a;
+	color: black;
+}
+.r2
+{
+	
+	height: 350PX;
+	width:1375px;background-color: #346473;
+}
+.photo
+{
+	padding-top:50px;
+    text-align:right;
+    margin-left: 5%;
+}
+.matter
+{
+	text-align: left;
+	padding-top:50px;
+	padding-left: 60px;
+	font-family:Corbel;
+}
+h2
+{
+ color: white;
+}
+.s1
+{
+	color:white;
+	font-size:10px;
+}

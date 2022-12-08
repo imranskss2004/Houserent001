@@ -1,0 +1,46 @@
+#foursub1{
+	background-image: url('../images/livingroom.jpg');
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow-y: hidden;
+    overflow-x: hidden;
+    padding-top: 50px;
+}
+.heading{
+	color: white;
+	font-family: sans-serif;
+	font-size: 45px;
+}
+.content{
+    color: white;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+#mybtn1{
+	background-color: #f7f39a;
+	height: 40px;
+	width: 150px;
+	margin-left: 550px;
+}
+#mybtn{
+	background-color: #346473;
+	color: #d3d9dc;
+	height: 40px;
+	width: 150px;
+	margin-left: 0px;
+	margin-top: 10px;
+}
+
+
+#blank{
+	padding: 50px;
+}
+.text{
+	font-size: 20px;
+	margin: 30px 0px 20px 0px;
+	font-family: serif;
+}
+.fourth{
+	height: 1050px;
+}
